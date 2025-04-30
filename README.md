@@ -46,7 +46,11 @@ Feel free to fork this repo and submit a pull request.
 📜 License
 This project is open-source and available under the MIT License.
 
-👨‍💻 Author
-Made with ❤️ by [Your Name]
-📧 your.email@example.com
-🔗 LinkedIn Profile
+**🙌 Author**
+Sumit Gupta
+
+📧 sumitgupta.1018@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sumitgupta1018/)
+
+💻 [GitHub](https://github.com/Sumit-1018)
